@@ -33,4 +33,4 @@
 * 林庭毅：遊戲介面、移動的事件處理、死亡判定與特殊規則擬定
 * 黃竑睿：特殊規則實作
 ## 遊戲畫面
-![image](https://github.com/TingYeeet/Python_Snake/blob/master/game.png?raw=true)
+
